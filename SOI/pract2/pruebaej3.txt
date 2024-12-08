@@ -1,0 +1,4 @@
+Escrito por el proceso padre antes del fork
+Escrito por el proceso hijo
+Escrito por el proceso padre antes del fork
+Escrito por el proceso padre
